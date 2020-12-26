@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "faIcon": "fas fa-palette",
+      "title": "Sleek user interface",
+      "description": "A sleek and clean user interface keeps you away from any distractions. Manage your data at anytime, from any device, using the responsive web application."
+    },
+    {
+      "faIcon": "fas fa-hand-holding-usd",
+      "title": "Free and open source",
+      "description": "Expenso is free for both personal and commercial purposes. You can use the application without any limits. We work continously to improve the product and you can contribute your ideas and requests."
+    },
+    {
+      "faIcon": "fab fa-superpowers",
+      "title": "Visualize trends",
+      "description": "Various charts to visualize your data at a glance. Charts help you to view data from different perspectives. This multi-dimensional view ensures, right indicators are exposed to the user."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "image": "features/reporting.svg",
+      "title": "Advanced reporting capabilities",
+      "description": "Build report templates with custom data settings. Share a report template as global favorite for others in yoru company to use."
+    },
+    {
+      "alt": true,
+      "image": "features/scheduled_report.svg",
+      "title": "Schedule reports",
+      "description": "Create report templates with dynamic criteria. Schedule reports to be run and sent over email at set frequency."
+    },
+    {
+      "image": "features/recurring_expense.svg",
+      "title": "Automate recurring expenses",
+      "description": "Manage recurring expenses by - scheduling a transaction to post on a future date, at set recurring intervals."
+    },
+    {
+      "alt": true,
+      "image": "features/budget.svg",
+      "title": "Plan and track budgets",
+      "description": "Define budgets at expense category level for each month, and compare it with the actual expenses - month on month."
+    },
+    {
+      "image": "features/prediction.svg",
+      "title": "Future prediction",
+      "description": "Using statistical analysis and trend line analysis, expenso can predict various useful numbers for the future. Example: Expense for remaining days in the current month."
+    }
+  ]
+}

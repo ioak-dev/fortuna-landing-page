@@ -1,0 +1,9 @@
+{
+  "title": "Expense tracking and budgeting application",
+  "subtitle": "Record bills and visualize spending patterns on the go. With the help of advanced statistical engine, you will gain more insights about your data.",
+  "image": "illustration/hero.svg",
+  "callToAction": {
+    "label": "Get Started",
+    "faIcon": "fas fa-play"
+  }
+}
