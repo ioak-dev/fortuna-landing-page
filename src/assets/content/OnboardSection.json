@@ -3,7 +3,7 @@
   "steps": [
     {
       "title": "Setup a space for your company",
-      "description": "Expenso is powered by Oneauth for user authentication. Get started by creating a space in Oneauth for your company. Space can be used across all products offered by IOAK. Single user account across all products with support for single sign on (SSO)."
+      "description": "Fortuna is powered by Oneauth for user authentication. Get started by creating a space in Oneauth for your company. Space can be used across all products offered by IOAK. Single user account across all products with support for single sign on (SSO)."
     },
     {
       "title": "Provision users",

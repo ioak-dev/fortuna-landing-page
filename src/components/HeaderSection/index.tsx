@@ -1,7 +1,7 @@
 import React from "react"
 import "./style.scss"
-import expensoWhite from "../../assets/expenso_white.svg"
-import expensoBlack from "../../assets/expenso_black.svg"
+import fortunaWhite from "../../assets/fortuna_white.svg"
+import fortunaBlack from "../../assets/fortuna_black.svg"
 import { Link } from "gatsby"
 
 interface Props {
@@ -14,8 +14,8 @@ export default function HeaderSection(props: Props) {
       <Link to="/" title="Go to landing page">
         <img
           className="logo"
-          src={props.black ? expensoBlack : expensoWhite}
-          alt="Expenso logo"
+          src={props.black ? fortunaBlack : fortunaWhite}
+          alt="Fortuna logo"
         />
       </Link>
     </div>

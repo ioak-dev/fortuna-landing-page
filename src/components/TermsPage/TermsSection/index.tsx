@@ -9,16 +9,16 @@ export default function TermsSection() {
           <strong>Terms and Conditions</strong>
         </h2>
 
-        <p>Welcome to Expenso!</p>
+        <p>Welcome to Fortuna!</p>
 
         <p>
           These terms and conditions outline the rules and regulations for the
-          use of Expenso's Website, located at https://expenso.ioak.org.
+          use of Fortuna's Website, located at https://fortuna.ioak.org.
         </p>
 
         <p>
           By accessing this website we assume you accept these terms and
-          conditions. Do not continue to use Expenso if you do not agree to take
+          conditions. Do not continue to use Fortuna if you do not agree to take
           all of the terms and conditions stated on this page. Our Terms and
           Conditions were created with the help of the{" "}
           <a href="https://www.termsandconditionsgenerator.com">
@@ -53,8 +53,8 @@ export default function TermsSection() {
         </h3>
 
         <p>
-          We employ the use of cookies. By accessing Expenso, you agreed to use
-          cookies in agreement with the Expenso's Privacy Policy.
+          We employ the use of cookies. By accessing Fortuna, you agreed to use
+          cookies in agreement with the Fortuna's Privacy Policy.
         </p>
 
         <p>
@@ -70,19 +70,19 @@ export default function TermsSection() {
         </h3>
 
         <p>
-          Unless otherwise stated, Expenso and/or its licensors own the
-          intellectual property rights for all material on Expenso. All
+          Unless otherwise stated, Fortuna and/or its licensors own the
+          intellectual property rights for all material on Fortuna. All
           intellectual property rights are reserved. You may access this from
-          Expenso for your own personal use subjected to restrictions set in these
-          terms and conditions.
+          Fortuna for your own personal use subjected to restrictions set in
+          these terms and conditions.
         </p>
 
         <p>You must not:</p>
         <ul>
-          <li>Republish material from Expenso</li>
-          <li>Sell, rent or sub-license material from Expenso</li>
-          <li>Reproduce, duplicate or copy material from Expenso</li>
-          <li>Redistribute content from Expenso</li>
+          <li>Republish material from Fortuna</li>
+          <li>Sell, rent or sub-license material from Fortuna</li>
+          <li>Reproduce, duplicate or copy material from Fortuna</li>
+          <li>Redistribute content from Fortuna</li>
         </ul>
 
         <p>This Agreement shall begin on the date hereof.</p>
@@ -90,18 +90,18 @@ export default function TermsSection() {
         <p>
           Parts of this website offer an opportunity for users to post and
           exchange opinions and information in certain areas of the website.
-          Expenso does not filter, edit, publish or review Comments prior to their
-          presence on the website. Comments do not reflect the views and
-          opinions of Expenso,its agents and/or affiliates. Comments reflect the
+          Fortuna does not filter, edit, publish or review Comments prior to
+          their presence on the website. Comments do not reflect the views and
+          opinions of Fortuna,its agents and/or affiliates. Comments reflect the
           views and opinions of the person who post their views and opinions. To
-          the extent permitted by applicable laws, Expenso shall not be liable for
-          the Comments or for any liability, damages or expenses caused and/or
-          suffered as a result of any use of and/or posting of and/or appearance
-          of the Comments on this website.
+          the extent permitted by applicable laws, Fortuna shall not be liable
+          for the Comments or for any liability, damages or expenses caused
+          and/or suffered as a result of any use of and/or posting of and/or
+          appearance of the Comments on this website.
         </p>
 
         <p>
-          Expenso reserves the right to monitor all Comments and to remove any
+          Fortuna reserves the right to monitor all Comments and to remove any
           Comments which can be considered inappropriate, offensive or causes
           breach of these Terms and Conditions.
         </p>
@@ -130,9 +130,9 @@ export default function TermsSection() {
         </ul>
 
         <p>
-          You hereby grant Expenso a non-exclusive license to use, reproduce, edit
-          and authorize others to use, reproduce and edit any of your Comments
-          in any and all forms, formats or media.
+          You hereby grant Fortuna a non-exclusive license to use, reproduce,
+          edit and authorize others to use, reproduce and edit any of your
+          Comments in any and all forms, formats or media.
         </p>
 
         <h3>
@@ -188,8 +188,8 @@ export default function TermsSection() {
           that: (a) the link would not make us look unfavorably to ourselves or
           to our accredited businesses; (b) the organization does not have any
           negative records with us; (c) the benefit to us from the visibility of
-          the hyperlink compensates the absence of Expenso; and (d) the link is in
-          the context of general resource information.
+          the hyperlink compensates the absence of Fortuna; and (d) the link is
+          in the context of general resource information.
         </p>
 
         <p>
@@ -202,7 +202,7 @@ export default function TermsSection() {
         <p>
           If you are one of the organizations listed in paragraph 2 above and
           are interested in linking to our website, you must inform us by
-          sending an e-mail to Expenso. Please include your name, your
+          sending an e-mail to Fortuna. Please include your name, your
           organization name, contact information as well as the URL of your
           site, a list of any URLs from which you intend to link to our Website,
           and a list of the URLs on our site to which you would like to link.
@@ -222,7 +222,7 @@ export default function TermsSection() {
         </ul>
 
         <p>
-          No use of Expenso's logo or other artwork will be allowed for linking
+          No use of Fortuna's logo or other artwork will be allowed for linking
           absent a trademark license agreement.
         </p>
 

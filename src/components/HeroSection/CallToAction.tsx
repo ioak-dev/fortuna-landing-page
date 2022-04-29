@@ -13,7 +13,7 @@ export default function CallToAction(props: Props) {
   return (
     <div className="call-to-action">
       <OakButton
-        action={() => (window.location.href = "https://app.expenso.ioak.io")}
+        action={() => (window.location.href = "https://fortuna-app.ioak.io")}
         theme={props.theme || "primary"}
         variant="regular"
       >

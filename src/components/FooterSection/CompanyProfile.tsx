@@ -1,7 +1,7 @@
 import React from "react"
 import "./style.scss"
 import ioakWhite from "../../assets/ioak_white.svg"
-import expensoWhite from "../../assets/expenso_white.svg"
+import fortunaWhite from "../../assets/fortuna_white.svg"
 
 interface Props {
   data: {
@@ -16,7 +16,7 @@ export default function CompanyProfile(props: Props) {
       <div className="company-profile--logo">
         <img
           className="company-profile--logo--oneauth"
-          src={expensoWhite}
+          src={fortunaWhite}
           alt="IOAK logo"
         />
         by

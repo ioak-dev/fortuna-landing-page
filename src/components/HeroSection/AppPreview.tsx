@@ -11,17 +11,17 @@ export default function AppPreview() {
         <img
           className="preview-mobile desktop-only"
           src={imageTaskView}
-          alt="Expenso board view"
+          alt="Fortuna board view"
         />
         <img
           className="preview-desktop desktop-only"
           src={imageBoardView}
-          alt="Expenso board view"
+          alt="Fortuna board view"
         />
         <img
           className="preview-mobile mobile-only"
           src={imageBoardViewMobile}
-          alt="Expenso board view"
+          alt="Fortuna board view"
         />
       </div>
     </div>

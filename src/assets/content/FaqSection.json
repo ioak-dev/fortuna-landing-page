@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "title": "How do I onboard my organization to Expenso?",
-      "description": "Expenso is powered by Oneauth for user authentication. When you onboard your organization to use Expenso, you set up a space for your organization in Oneauth. All your organization members will be part of this space that is isolated to your organization."
+      "title": "How do I onboard my organization to Fortuna?",
+      "description": "Fortuna is powered by Oneauth for user authentication. When you onboard your organization to use Fortuna, you set up a space for your organization in Oneauth. All your organization members will be part of this space that is isolated to your organization."
     },
     {
-      "title": "Why do I not see a user that I am looking for in Expenso?",
-      "description": "Once a user signs up for a user account in Oneauth, the user should log in to Expenso once to get the user listed within the Expenso app. If the user has no account in Oneauth, then ask the user to create a user account in Oneauth first."
+      "title": "Why do I not see a user that I am looking for in Fortuna?",
+      "description": "Once a user signs up for a user account in Oneauth, the user should log in to Fortuna once to get the user listed within the Fortuna app. If the user has no account in Oneauth, then ask the user to create a user account in Oneauth first."
     },
     {
       "title": "How do I request for a feature that is not available currently?",
@@ -14,7 +14,7 @@
     },
     {
       "title": "How do I contribute to the project, as a developer?",
-      "description": "Expenso is an open-source initiative and we welcome you to post your code changes as a pull request on our Github repository. We will review the code and merge it to the main branch on successful testing and validation."
+      "description": "Fortuna is an open-source initiative and we welcome you to post your code changes as a pull request on our Github repository. We will review the code and merge it to the main branch on successful testing and validation."
     }
   ]
 }
